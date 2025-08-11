@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://raymondan.com">
-    <img src="https://github.com/charmrain/charmrain/blob/main/assets/raGitBanner.png" alt="Raymond An Banner" width="100%">
-  </a>
-</p>
+
 
 # 👋 Hi, I'm Raymond An
 
@@ -70,3 +66,9 @@ When I’m not coding, I’m exploring new tech, watching great documentaries, o
 ---
 
 💡 *If you enjoyed exploring my work, feel free to star ⭐ the repos you like — it makes my day and helps me keep building!*
+
+<p align="center">
+  <a href="https://raymondan.com">
+    <img src="https://github.com/charmrain/charmrain/blob/main/assets/raGitBanner.png" alt="Raymond An Banner" width="100%">
+  </a>
+</p>
