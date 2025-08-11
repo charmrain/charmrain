@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://raymondan.com">
+    <img src="https://github.com/charmrain/charmrain/blob/main/assets/raGitBanner.png" alt="Raymond An Banner" width="100%">
+  </a>
+</p>
+
 # 👋 Hi, I'm Raymond An
 
 **Data Scientist | Generative AI Enthusiast | Problem Solver**
