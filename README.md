@@ -59,7 +59,7 @@ When I’m not coding, I’m exploring new tech, watching great documentaries, o
 ## 📬 Let's Connect
 - **GitHub:** [charmrain](https://github.com/charmrain)
 - **LinkedIn:** [Raymond An](https://www.linkedin.com/in/raymond-an-923608197/)
-- **Website:** [raymondan.com](https://raymondan.com)
+- **Website&Blog:** [raymondan.com](https://raymondan.com)
 
 ---
 
