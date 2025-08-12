@@ -46,7 +46,7 @@ End-to-end automated system for **lead scraping, structuring, and mass outreach*
 
 ### 4️⃣ [🌐 Personal Static Website – Blog + Resume](https://github.com/charmrain/charmrain.github.io)
 A fast, static personal website built for:
-- **Blog posts** on tech, AI, and data science
+- **Blog posts** to share my life and experience
 - **Online resume** to showcase professional experience
 - Built with Jekyll and hosted on GitHub Pages
 
